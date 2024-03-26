@@ -3,7 +3,7 @@
 
 # Pada Soal No 1 
 saya membuat sebuah class yaitu MarketingDataETL yang memiliki 3 metode:
-1. Extraxt
+1. Extract
 2. Transform
    - Pada transform saya mengubah format tanggal, dan membershikan nilai NULL
 3. Store
