@@ -1,4 +1,4 @@
-# Pada Tugas ini saya akan membersihkan data ('marketing_data.csv')
+# Pada Tugas ini Saya Telah Membersihkan Data ('marketing_data.csv')
 - Prinsip yang di gunakan adalah Basic OOP, Inheritance, Polymorphism
 
 # Pada Soal No 1 
